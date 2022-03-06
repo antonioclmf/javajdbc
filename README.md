@@ -7,5 +7,3 @@
 - Banco de dados Postgresql;
 - Flowchart and Sequence Diagram;
 - Junit para testes
-
-[========]
